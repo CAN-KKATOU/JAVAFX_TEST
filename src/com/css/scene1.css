@@ -1,0 +1,14 @@
+.label {
+    -fx-text-fill: cyan;
+    -fx-font-family: "PingFang SC";
+}
+
+#pane {
+    -fx-padding: 0.5em;
+    -fx-hgap: 0.5em;
+    -fx-vgap: 0.5em;
+}
+
+.highlight:focused {
+    -fx-border-color: yellow;
+}
